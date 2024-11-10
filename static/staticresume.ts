@@ -1,0 +1,23 @@
+// localStorage.getItem("name");
+// console.log(localStorage.getItem("name"));
+
+// localStorage.getItem("desig"); 
+// localStorage.getItem("phone");
+// localStorage.getItem("email");
+// localStorage.getItem("address"); 
+// localStorage.getItem("depart");
+// localStorage.getItem("uni ");
+// localStorage.getItem("year");
+// localStorage.getItem("expertise1");
+// localStorage.getItem("expertise2");
+// localStorage.getItem("expertise3");
+// localStorage.getItem("expertise4");
+// localStorage.getItem("expertise5");
+// localStorage.getItem(" lang1");
+// localStorage.getItem("lang2");
+// localStorage.getItem("syear");
+// localStorage.getItem("eyear");
+// localStorage.getItem("company");
+// localStorage.getItem(" jobtitle ");
+// localStorage.getItem("achievements1 ");
+// localStorage.getItem("achievements");
